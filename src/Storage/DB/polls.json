@@ -1,0 +1,294 @@
+{
+    "63c16cca09b16": {
+        "question": "fdsfdsa",
+        "deadline": "2023-01-12",
+        "isMultiple": "True",
+        "options": [
+            "asdfds",
+            "sdfdsa"
+        ],
+        "createdAt": "2023-01-13",
+        "answers": [
+            {
+                "asdfds": 0
+            },
+            {
+                "sdfdsa": 1
+            }
+        ],
+        "voted": [
+            "AboodOthman"
+        ],
+        "id": "63c16cca09b16"
+    },
+    "63c2c753baf6a": {
+        "question": "How is it going? ",
+        "deadline": "2023-01-15",
+        "isMultiple": "False",
+        "options": [
+            "Good",
+            "Bad"
+        ],
+        "createdAt": "2023-01-14",
+        "answers": [
+            {
+                "Good": 1
+            },
+            {
+                "Bad": 1
+            }
+        ],
+        "voted": [
+            "AboodOthman",
+            "AboodOthman"
+        ],
+        "id": "63c2c753baf6a"
+    },
+    "63c2c8152028a": {
+        "question": "fffff",
+        "deadline": "2023-01-13",
+        "createdAt": "2023-01-12",
+        "isMultiple": "False",
+        "options": [
+            "ss",
+            "aa"
+        ],
+        "answers": [
+            {
+                "ss": 0
+            },
+            {
+                "aa": 0
+            }
+        ],
+        "voted": [],
+        "id": "63c2c8152028a"
+    },
+    "63c2c83794dc4": {
+        "question": "dd",
+        "deadline": "2023-02-02",
+        "createdAt": "2023-01-15",
+        "isMultiple": "False",
+        "options": [
+            "aa",
+            "ss"
+        ],
+        "answers": [
+            {
+                "aa": 1
+            },
+            {
+                "ss": 1
+            }
+        ],
+        "voted": [
+            "admin",
+            "AboodOthman"
+        ],
+        "id": "63c2c83794dc4"
+    },
+    "63c2cea56af28": {
+        "question": "Hi",
+        "deadline": "2023-01-17",
+        "createdAt": "2023-01-20",
+        "isMultiple": "True",
+        "options": [
+            "a",
+            "w",
+            "d",
+            "f"
+        ],
+        "answers": [
+            {
+                "a": 1
+            },
+            {
+                "w": 4
+            },
+            {
+                "d": 2
+            },
+            {
+                "f": 1
+            }
+        ],
+        "voted": [
+            "AboodOthman",
+            "AboodOthman",
+            "m",
+            "admin"
+        ],
+        "id": "63c2cea56af28"
+    },
+    "63c2cf1d1748d": {
+        "question": "g",
+        "deadline": "2024-01-16",
+        "createdAt": "2024-01-12",
+        "isMultiple": "True",
+        "options": [
+            "g",
+            "d",
+            "e"
+        ],
+        "answers": [
+            {
+                "g": 2
+            },
+            {
+                "d": 2
+            },
+            {
+                "e": 1
+            }
+        ],
+        "voted": [
+            "admin",
+            "AboodOthman",
+            "m"
+        ],
+        "id": "63c2cf1d1748d"
+    },
+    "63c2d09fcb134": {
+        "question": "erter",
+        "deadline": "2023-01-29",
+        "createdAt": "2023-01-19",
+        "isMultiple": "True",
+        "options": [
+            "A",
+            "B"
+        ],
+        "answers": [
+            {
+                "A": 3
+            },
+            {
+                "B": 0
+            }
+        ],
+        "voted": [
+            "AboodOthman",
+            "AboodOthman",
+            "AboodOthman"
+        ],
+        "id": "63c2d09fcb134"
+    },
+    "63c2d18241234": {
+        "question": "DTHYTEYR",
+        "deadline": "2023-01-19",
+        "isMultiple": "False",
+        "options": [
+            "DSFSEWR",
+            "AEWAEW"
+        ],
+        "createdAt": "2023-01-14",
+        "answers": [
+            {
+                "DSFSEWR": 0
+            },
+            {
+                "AEWAEW": 1
+            }
+        ],
+        "voted": [
+            "AboodOthman"
+        ],
+        "id": "63c2d18241234"
+    },
+    "63c2d196ed436": {
+        "question": "EFGDGFD",
+        "deadline": "2023-02-06",
+        "isMultiple": "False",
+        "options": [
+            "UU",
+            "ERTER"
+        ],
+        "createdAt": "2023-01-14",
+        "answers": [
+            {
+                "UU": 1
+            },
+            {
+                "ERTER": 1
+            }
+        ],
+        "voted": [
+            "AboodOthman",
+            "m"
+        ],
+        "id": "63c2d196ed436"
+    },
+    "63c2d1b688714": {
+        "question": "GFDGDF",
+        "deadline": "2023-02-26",
+        "isMultiple": "True",
+        "options": [
+            "YJY",
+            "TRYTR"
+        ],
+        "createdAt": "2023-01-14",
+        "answers": [
+            {
+                "YJY": 3
+            },
+            {
+                "TRYTR": 0
+            }
+        ],
+        "voted": [
+            "AboodOthman",
+            "AboodOthman",
+            "AboodOthman"
+        ],
+        "id": "63c2d1b688714"
+    },
+    "63c2d1c8132c6": {
+        "question": "XVCV",
+        "deadline": "2023-02-02",
+        "isMultiple": "True",
+        "options": [
+            "CXVCX",
+            "XCV",
+            "CXVCX"
+        ],
+        "createdAt": "2023-01-14",
+        "answers": [
+            {
+                "CXVCX": 0
+            },
+            {
+                "XCV": 1
+            },
+            {
+                "CXVCX": 0
+            }
+        ],
+        "voted": [
+            "AboodOthman"
+        ],
+        "id": "63c2d1c8132c6"
+    },
+    "63c2de8428c7e": {
+        "question": "How are you doing today?",
+        "deadline": "2023-01-17",
+        "isMultiple": "True",
+        "options": [
+            "nem todum",
+            "50 50",
+            "100% good"
+        ],
+        "createdAt": "2023-01-14",
+        "answers": [
+            {
+                "nem todum": 0
+            },
+            {
+                "50 50": 0
+            },
+            {
+                "100% good": 0
+            }
+        ],
+        "voted": [],
+        "id": "63c2de8428c7e"
+    }
+}

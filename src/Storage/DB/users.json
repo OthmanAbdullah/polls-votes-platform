@@ -1,0 +1,16 @@
+{
+    "63c2dd546a189": {
+        "username": "admin",
+        "password": "$2y$10$22XLONDeiZL0BmofZj66LOxWcxB67jC8pyZm8KwX.lEtFv\/8UZXRS",
+        "email": "admin@gmail.com",
+        "role": "admin",
+        "id": "63c2dd546a189"
+    },
+    "63c2ddc24afd8": {
+        "username": "AboodOthman",
+        "password": "$2y$10$L4ZY5yDMhsFJjxPFRnii8uuqgZA\/6mAUZzy4zmji6s.zHllFtC1w2",
+        "email": "aboodothman200106@gmail.com",
+        "role": "user",
+        "id": "63c2ddc24afd8"
+    }
+}

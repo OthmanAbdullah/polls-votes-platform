@@ -1,0 +1,137 @@
+.card {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+    text-align: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+    position: relative;
+}
+
+.card-title {
+    margin: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.poll-description {
+    margin-top: 30px;
+    font-size: 1.2em;
+}
+
+.poll-options {
+    margin-top: 20px;
+    display: block;
+}
+
+.poll-options .poll-option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.poll-options .poll-option label {
+    margin-left: 10px;
+    font-size: 1.2em;
+}
+
+.poll-options .poll-option input[type='radio'] {
+    margin-right: 5px;
+}
+
+.poll-info {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.poll-info span {
+    font-size: 0.9em;
+}
+
+.option-card {
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.poll-options .poll-option:hover {
+    transform: scale(1.01);
+}
+
+.card-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.poll-date,
+.poll-deadline {
+    font-size: 0.9em;
+    float: left;
+}
+
+.poll-deadline {
+    float: right;
+}
+
+.poll-submit-wrap {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.poll-submit {
+    background-color: #2196F3;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color .3s ease;
+}
+
+.poll-submit:hover {
+    background-color: #1E88E5;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+
+.navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}

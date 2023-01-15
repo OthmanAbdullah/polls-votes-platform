@@ -1,0 +1,100 @@
+.card {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+    height: 85vh;
+    /* height: 500px;
+    overflow: scroll;  */
+}
+
+.card-title {
+    margin: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.w3-bar-block .w3-bar-item {
+    padding: 16px;
+    font-weight: bold;
+}
+
+.card-body {
+    padding: 20px 0;
+    overflow: hidden;
+    height: 500px;
+    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0.2em;
+    background-color: #f2f2f2;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #F5F5F5;
+  }
+
+/* Style the navigation bar */
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+
+/* Navbar links */
+.navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Navbar links on mouse-over */
+.navbar a:hover {
+    background-color: #000;
+}
+
+/* Current/active navbar link */
+.active {
+    background-color: #04AA6D;
+}
+
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}
+
+body {
+    font-family: "Roboto", sans-serif
+}
+
+
+.poll {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.poll-id, .poll-date, .poll-deadline {
+    flex-basis: 30%;
+}
+
+.poll-button {
+    flex-basis: 20%;
+}

@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+
+body .registration {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Sansita Swashed", cursive;
+  /* background-image: url(https://media.istockphoto.com/id/1283508286/photo/online-voting-bulletin-hologram-with-check-mark-on-blue-background-electronic-voting.jpg?b=1&s=170667a&w=0&k=20&c=tdLix25Zgy6JwFHUlIXR6-Gk6Xky2n0U2R-fSAhTLhE=); */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+}
+
+.center{
+  width: 500px;
+  /* display: flex; */
+  /* align-items: center; */
+  position: relative;
+  /* padding: 50px 50px; */
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: hsl(0, 17%, 93%);
+  border-radius: 10px;
+}
+
+.center h1 {
+  font-size: 2em;
+  border-left: 5px solid dodgerblue;
+  padding: 10px;
+  color: #000;
+  letter-spacing: 5px;
+  margin-bottom: 60px;
+  font-weight: bold;
+  padding-left: 10px;
+  background-color: rgba(134, 172, 223, 0.253)
+}
+
+.center .inputbox {
+  position: relative;
+  width: 300px;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+.center .inputbox input,
+button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: 2px solid #000;
+  outline: none;
+  background: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+
+.center .inputbox:last-child {
+  margin-bottom: 0;
+}
+
+.center .inputbox span {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  font-size: 1em;
+  transition: 0.6s;
+  font-family: sans-serif;
+}
+
+.center .inputbox input:focus~span,
+.center .inputbox input:valid~span {
+  transform: translateX(-13px) translateY(-35px);
+  font-size: 1em;
+}
+
+.center .inputbox button {
+  width: 50%;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+}
+
+.center .inputbox:hover button {
+  background: linear-gradient(45deg, rgb(186, 194, 175), dodgerblue);
+}
+
+
+.error {
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.goLinks a {
+  margin: 2em;
+}
